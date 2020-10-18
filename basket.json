@@ -5,14 +5,14 @@
         {
             "productName":"TOMATO PEOPLE T-SHIRT,
             "productPrice":45,
-            "productImg":"https://raw.githubusercontent.com/Tarasov-Andrey-student/img_forJS/blob/main/Layer9.jpg",
+            "productImg":"https://raw.githubusercontent.com/Tarasov-Andrey-student/img_forJS/main/Layer9.jpg",
             "productId":"prod_7",
             "amount": 2
         },
         {
             "productName":"MANGO PEOPLE T-SHIRT",
             "productPrice":52,
-            "productImg":"https://raw.githubusercontent.com/Tarasov-Andrey-student/img_forJS/blob/main/Layer2.jpg",
+            "productImg":"https://raw.githubusercontent.com/Tarasov-Andrey-student/img_forJS/main/Layer2.jpg",
             "productId":"prod_0",
             "amount": 1
         }
